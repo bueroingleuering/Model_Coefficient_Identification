@@ -6,4 +6,3 @@ An example with a vehicle in a roll out event is shown, where the velocity v(t) 
 
 ![Model Scheme](https://raw.githubusercontent.com/bueroingleuering/Model_Coefficient_Identification/main/Scheme.png)
 
-https://github.com/bueroingleuering/Model_Coefficient_Identification/blob/main/rollout.png?raw=true
